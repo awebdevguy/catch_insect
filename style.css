@@ -49,6 +49,10 @@ a {
   height: 100%;
   width: 100%;
   transition: margin 0.5s ease-out;
+  /* overflow: scroll; */
+}
+
+.screen.choose-insect {
   overflow: scroll;
 }
 
